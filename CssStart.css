@@ -1,0 +1,38 @@
+body {
+    background-image: url("image/start.jpg");
+    background-size: 100%;
+    text-align: center;
+}
+h1 {
+    color: orangered;
+    font-size: 50px;
+}
+
+button {
+    width: 150px;
+    height: 50px;
+    font-size: 24px;
+    color: red;
+    font-style: italic;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+}
+
+button:hover {
+    background-color: crimson;
+    color: white;
+}
+
+div {
+    border: blue 10px solid;
+    width: 500px;
+    height: 250px;
+    margin: 0 auto;
+    text-align: center;
+    position: absolute;
+    left: 33%;
+    top: 25%;
+    background: lightblue;
+}
+
+
