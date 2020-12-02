@@ -67,12 +67,11 @@ function check() {
         // Thắng cuộc và trở về trang Start
         alert("BẠN ĐÃ THẮNG TRÒ CHƠI");
         alert("Quay trở về trang chính");
-        location.replace("http://localhost:63342/Code/Month1/Case%20Study%20Month%201/Start.html?_ijt=fghf6dgjke77lpnd8r41fj34rd");
-    } else if (point < -40) {
+        location.replace("Start.html")
         // Thua cuộc và trở về trang Start
         alert("BẠN ĐÃ THUA CUỘC");
         alert("Quay trở về trang chính");
-        location.replace("http://localhost:63342/Code/Month1/Case%20Study%20Month%201/Start.html?_ijt=fghf6dgjke77lpnd8r41fj34rd");
+        location.replace("Start.html");
     }
 }
 
@@ -125,7 +124,7 @@ setInterval(function () {
     if (s === 0) {
         alert("BẠN ĐÃ THUA CUỘC");
         alert("Quay trở về trang chính");
-        location.replace("http://localhost:63342/Code/Month1/Case%20Study%20Month%201/Start.html?_ijt=fghf6dgjke77lpnd8r41fj34rd");
+        location.replace("Start.html");
     }
 }, 1000);
 
@@ -137,5 +136,5 @@ function resetValue() {
 
 //Trở về
 function returnValue() {
-    location.replace("http://localhost:63342/Code/Month1/Case%20Study%20Month%201/Start.html?_ijt=fghf6dgjke77lpnd8r41fj34rd");
+    location.replace("Start.html");
 }
