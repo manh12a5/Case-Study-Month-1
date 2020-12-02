@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="1f734afa-f39a-4bd1-844a-137c9678e4ef" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Game.js" beforeDir="false" afterPath="$PROJECT_DIR$/Game.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Week 1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 1/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Week 2" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 2" afterDir="false" />
     </list>
@@ -24,7 +27,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Week 2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -38,6 +41,7 @@
       <updated>1606880475292</updated>
       <workItem from="1606880476405" duration="335000" />
       <workItem from="1606881661896" duration="439000" />
+      <workItem from="1606882942350" duration="8466000" />
     </task>
     <servers />
   </component>

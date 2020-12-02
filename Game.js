@@ -37,29 +37,28 @@ let arr =
         "- Chủ Tịch Mặt Trận Mỹ Việt Hoa Hải Ngoại.",
 
     ]
-let point = 0;
-let indexPhoto = 0;
 
 //Kiểm tra đáp án với cách dùng mảng
+let point = 0;
 function check() {
-    //Gán để tăng và giảm điểm, check mảng với nhau
+    //Gán để check mảng với nhau
     let a = document.getElementById("question").value;
     let x;
-    for (let i = 0; i < images.length; i++) {
+    for (let i = 0; i < answers.length; i++) {
         if (a === answers[i]) {
             x = 0;
         }
     }
     if (x === 0) {
-        //Tăng điểm, check mảng
+        //Tăng điểm
         alert("Chính xác");
         document.getElementById("name").value = "CHÍNH XÁC";
         point += 10;
         document.getElementById("total").value = ("Điểm: " + point);
     } else {
-        //Giảm điểm, check mảng
+        //Giảm điểm
         alert("Bạn trả lời sai");
-        document.getElementById("name").value = "Gợi ý (Tên phải riêng viết hoa)";
+        document.getElementById("name").value = "Gợi ý (Tên riêng phải viết hoa)";
         point -= 10;
         document.getElementById("total").value = ("Điểm: " + point);
     }
@@ -68,6 +67,7 @@ function check() {
         alert("BẠN ĐÃ THẮNG TRÒ CHƠI");
         alert("Quay trở về trang chính");
         location.replace("Start.html")
+    } else if (point < -40) {
         // Thua cuộc và trở về trang Start
         alert("BẠN ĐÃ THUA CUỘC");
         alert("Quay trở về trang chính");
@@ -76,6 +76,7 @@ function check() {
 }
 
 //Random đổi ảnh
+let indexPhoto = 0;
 function next() {
     let b = document.getElementById("question").value;
     let y;
