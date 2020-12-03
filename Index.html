@@ -9,6 +9,9 @@
 <marquee style="border:2px; background-color: lightskyblue">Nguyễn Đức Mạnh - C1020G2</marquee>
 
 <div>
+    <div style="position: absolute; left: 36.5%; top: 15.2%">
+        <input type="text" id = "help" style="width: 80px; background-color: yellow; text-align: center" readonly>
+    </div>
     <div>
         <div style="float: left; width: 495px; text-align: center">
             <img src="image/Untitled1.png" style=" width: 300px; height: 720px">
@@ -23,7 +26,7 @@
             <input type="text" id="total" value="Điểm: 0 "
                    style="width: 100px; height: 30px; background-color: orange; text-align: center" readonly>
             &emsp;
-            <button onclick="check()" onkeydown="checkKey()" style="width: 200px; height: 40px; font-size: 20px"> Trả lời</button>
+            <button onclick="check()" style="width: 200px; height: 40px; font-size: 20px"> Trả lời </button>
             &emsp;
             <input type="text" id="time"
                    style="background-color: yellowgreen; width: 100px; height: 30px; text-align: center" readonly>
@@ -49,6 +52,13 @@
 <audio autoplay>
     <source src="audio/DaiLy1NhacNenGameThienLongBatBo.mp3">
     <source src="audio/NhiHaiNhacNenGameThienLongBatBo.mp3">
+</audio>
+<audio id="aud1">
+    <source src="audio/NhacNen/correct.mp3">
+</audio>
+
+<audio id="aud2">
+    <source src="audio/NhacNen/wrong.mp3">
 </audio>
 
 <script src="Game.js"></script>

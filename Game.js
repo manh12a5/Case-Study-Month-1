@@ -51,14 +51,17 @@ function check() {
     }
     if (x === 0) {
         //Tăng điểm
-        alert("Chính xác");
-        document.getElementById("name").value = "CHÍNH XÁC";
+        let a1 = document.getElementById("aud1");
+        a1.play();
+        document.getElementById("help").value = "CORRECT";
         point += 10;
         document.getElementById("total").value = ("Điểm: " + point);
     } else {
         //Giảm điểm
-        alert("Bạn trả lời sai");
+        let a2 = document.getElementById("aud2");
+        a2.play();
         document.getElementById("name").value = "Gợi ý (Tên riêng phải viết hoa)";
+        document.getElementById("help").value = "WRONG";
         point -= 10;
         document.getElementById("total").value = ("Điểm: " + point);
     }
@@ -95,7 +98,9 @@ function next() {
         }
         document.getElementById("test").src = images[indexPhoto];
         document.getElementById("question").value = "";
+        document.getElementById("help").value = "";
         document.getElementById("name").value = "";
+
     }
 }
 
@@ -132,6 +137,7 @@ setInterval(function () {
 //Reset
 function resetValue() {
     document.getElementById("question").value = "";
+    document.getElementById("help").value = "";
     document.getElementById("name").value = "";
 }
 
