@@ -125,7 +125,7 @@ let s = 60;
 setInterval(function () {
     document.getElementById("time").value = "Time: " + s + " Giây";
     s--;
-    if (s === 0) {
+    if (s === -2) {
         alert("BẠN ĐÃ THUA CUỘC");
         alert("Quay trở về trang chính");
         location.replace("Start.html");
