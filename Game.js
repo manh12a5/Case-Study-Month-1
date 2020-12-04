@@ -67,12 +67,12 @@ function check() {
         // Thắng cuộc và trở về trang Start
         alert("BẠN ĐÃ THẮNG TRÒ CHƠI");
         alert("Quay trở về trang chính");
-        location.replace("Start.html")
+        location.replace("Index.html")
     } else if (point < -40) {
         // Thua cuộc và trở về trang Start
         alert("BẠN ĐÃ THUA CUỘC");
         alert("Quay trở về trang chính");
-        location.replace("Start.html");
+        location.replace("Index.html");
     }
 }
 
@@ -128,7 +128,7 @@ setInterval(function () {
     if (s === -2) {
         alert("BẠN ĐÃ THUA CUỘC");
         alert("Quay trở về trang chính");
-        location.replace("Start.html");
+        location.replace("Index.html");
     }
 }, 1000);
 
@@ -141,5 +141,5 @@ function resetValue() {
 
 //Trở về
 function returnValue() {
-    location.replace("Start.html");
+    location.replace("Index.html");
 }
