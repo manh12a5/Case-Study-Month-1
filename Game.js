@@ -51,12 +51,14 @@ function check() {
     }
     if (x === 0) {
         //Tăng điểm
+        alert("Chính xác");
         document.getElementById("aud1").play();
         document.getElementById("help").value = "CORRECT";
         point += 10;
         document.getElementById("total").value = ("Điểm: " + point);
     } else {
         //Giảm điểm
+        alert("Trả lời sai");
         document.getElementById("aud2").play();
         document.getElementById("name").value = "Gợi ý (Tên riêng phải viết hoa)";
         document.getElementById("help").value = "WRONG";

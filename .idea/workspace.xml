@@ -2,12 +2,311 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f734afa-f39a-4bd1-844a-137c9678e4ef" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 3 ( Web)/.idea/modules/Case-Study-Module_3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 3 ( Web)/.idea/modules/Case_Study_Module_3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 3 ( Web)/.idea/modules/Case_Study_Month-3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 3 ( Web)/.idea/modules/ChuyenDoiTIenTe-Servlet.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 3 ( Web)/.idea/modules/Product.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 3 ( Web)/.idea/modules/ProductDiscountCalculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 3 ( Web)/.idea/modules/QuanLyCongNhan-Servlet.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 3 ( Web)/.idea/modules/QuanLySinhVien-CS3.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 3 ( Web)/.idea/modules/QuanLySinhVien-CS3.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 3 ( Web)/Calculator-Servlet/.idea/modules/Calculator-Servlet.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 3 ( Web)/Calculator-Servlet/src/main/java/calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 3 ( Web)/ThiThucHanh_Module3/.idea/modules/ThiThucHanh_Module3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 3 ( Web)/ThucHanh_Module3/src/main/java/controller/CategoryServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 3 ( Web)/ThucHanh_Module3/src/main/java/model/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 3 ( Web)/ThucHanh_Module3/src/main/java/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 3 ( Web)/ThucHanh_Module3/src/main/java/service/IService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 3 ( Web)/ThucHanh_Module3/src/main/java/service/category/CategoryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 3 ( Web)/ThucHanh_Module3/src/main/java/service/category/ICategoryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 3 ( Web)/ThucHanh_Module3/src/main/java/service/product/IProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 3 ( Web)/ThucHanh_Module3/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 3 ( Web)/user-manager/src/main/java/controller/UserServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 3 ( Web)/user-manager/src/main/java/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 3 ( Web)/user-manager/src/main/java/service/IUserDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 3 ( Web)/user-manager/src/main/java/service/UserDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 3 ( Web)/user-manager/src/main/webapp/create.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/.idea/modules/CheckEmail-Spring.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/.idea/modules/CheckEmail-Spring/CheckEmail-Spring_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/.idea/modules/CheckEmail-Spring/CheckEmail-Spring_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/.idea/modules/TimeZone-Spring.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/.idea/modules/cms.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/CustomerPhoneValidation/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/CustomerPhoneValidation/src/main/java/config/AppConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/CustomerPhoneValidation/src/main/java/config/AppInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/CustomerPhoneValidation/src/main/java/controller/PhoneController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/CustomerPhoneValidation/src/main/java/model/PhoneNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/CustomerPhoneValidation/src/main/webapp/WEB-INF/views/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/CustomerPhoneValidation/src/main/webapp/WEB-INF/views/result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/CustormerManger-Spring/src/main/java/config/AppConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/CustormerManger-Spring/src/main/java/config/AppInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/CustormerManger-Spring/src/main/java/controller/CustomerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/CustormerManger-Spring/src/main/java/model/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/CustormerManger-Spring/src/main/java/service/IService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/CustormerManger-Spring/src/main/java/service/customer/CustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/CustormerManger-Spring/src/main/java/service/customer/ICustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/CustormerManger-Spring/src/main/webapp/WEB-INFO/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/CustormerManger-Spring/src/main/webapp/WEB-INFO/views/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/CustormerManger-Spring/src/main/webapp/WEB-INFO/views/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/CustormerManger-Spring/src/main/webapp/WEB-INFO/views/layout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/HomDienTu-Spring/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/HomDienTu-Spring/src/main/java/config/AppConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/HomDienTu-Spring/src/main/java/config/AppInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/HomDienTu-Spring/src/main/java/controller/MailController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/HomDienTu-Spring/src/main/java/model/Mail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/HomDienTu-Spring/src/main/java/service/ISerivce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/HomDienTu-Spring/src/main/java/service/mail/IMailService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/HomDienTu-Spring/src/main/java/service/mail/MailService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/HomDienTu-Spring/src/main/webapp/WEB-INFO/views/create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/MayTinhCaNhan-Spring/.idea/modules/MayTinhCaNhan-Spring.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/MayTinhCaNhan-Spring/src/main/java/config/AppConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/MayTinhCaNhan-Spring/src/main/java/config/AppInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/MayTinhCaNhan-Spring/src/main/java/controller/CalculatorController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/MayTinhCaNhan-Spring/src/main/java/model/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/MayTinhCaNhan-Spring/src/main/webapp/WEB-INFO/views/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/QuanLyGiaoVien-Spring/src/main/java/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/QuanLyGiaoVien-Spring/src/main/java/config/AppInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/QuanLyGiaoVien-Spring/src/main/java/controller/TeacherController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/QuanLyGiaoVien-Spring/src/main/java/service/IService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/QuanLyKhachHang-JPA/src/main/java/config/AppConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/QuanLyKhachHang-JPA/src/main/java/config/AppInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/QuanLyKhachHang-JPA/src/main/java/controller/CustomerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/QuanLyKhachHang-JPA/src/main/java/model/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/QuanLyKhachHang-JPA/src/main/java/service/IService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/QuanLyKhachHang-JPA/src/main/java/service/custormer/CustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/QuanLyKhachHang-JPA/src/main/java/service/custormer/ICustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/QuanLyKhachHang-JPA/src/main/webapp/WEB-INF/views/create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/QuanLyKhachHang-JPA/src/main/webapp/WEB-INF/views/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/QuanLyKhachHang-JPA/src/main/webapp/WEB-INF/views/error.404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/QuanLyKhachHang-JPA/src/main/webapp/WEB-INF/views/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/QuanLyKhachHang-Spring/.idea/modules/QuanLyKhachHang-Spring.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/QuanLyKhachHang-Spring/src/main/java/config/AppConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/QuanLyKhachHang-Spring/src/main/java/config/AppInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/QuanLyKhachHang-Spring/src/main/java/controller/CustomerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/QuanLyKhachHang-Spring/src/main/java/model/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/QuanLyKhachHang-Spring/src/main/java/service/IService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/QuanLyKhachHang-Spring/src/main/java/service/customer/CustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/QuanLyKhachHang-Spring/src/main/java/service/customer/ICustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/QuanLyKhachHang-Spring/src/main/webapp/WEB-INFO/customers/info.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/QuanLyKhachHang-Spring/src/main/webapp/WEB-INFO/customers/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/QuanLyProduct-Spring/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/QuanLyProduct-Spring/src/main/java/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/QuanLyProduct-Spring/src/main/java/config/AppInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/QuanLyProduct-Spring/src/main/java/controller/ProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/QuanLyProduct-Spring/src/main/java/formatter/CategoryFormatter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/QuanLyProduct-Spring/src/main/java/model/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/QuanLyProduct-Spring/src/main/java/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/QuanLyProduct-Spring/src/main/java/repository/ICategoryRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/QuanLyProduct-Spring/src/main/java/repository/IProductRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/QuanLyProduct-Spring/src/main/java/service/IService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/QuanLyProduct-Spring/src/main/java/service/category/CategoryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/QuanLyProduct-Spring/src/main/java/service/category/ICategoryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/QuanLyProduct-Spring/src/main/java/service/product/IProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/QuanLyProduct-Spring/src/main/java/service/product/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/QuanLyProduct-Spring/src/main/webapp/WEB-INF/views/create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/QuanLyProduct-Spring/src/main/webapp/WEB-INF/views/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/QuanLyProduct-Spring/src/main/webapp/WEB-INF/views/layout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/QuanLyProduct-Spring/src/main/webapp/WEB-INF/views/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/QuanLyProduct-Spring/src/main/webapp/WEB-INF/views/view.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/QuanLySanPham-Spring/.idea/modules/QuanLySanPham-Spring.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/QuanLySanPham-Spring/src/main/java/config/AppConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/QuanLySanPham-Spring/src/main/java/config/AppInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/QuanLySanPham-Spring/src/main/java/controller/ProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/QuanLySanPham-Spring/src/main/java/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/QuanLySanPham-Spring/src/main/java/service/IService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/QuanLySanPham-Spring/src/main/java/service/product/IProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/QuanLySanPham-Spring/src/main/java/service/product/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/QuanLySanPham-Spring/src/main/webapp/WEB-INFO/views/create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/QuanLySanPham-Spring/src/main/webapp/WEB-INFO/views/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/QuanLySanPham-Spring/src/main/webapp/WEB-INFO/views/layout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/QuanLySanPham-Spring/src/main/webapp/WEB-INFO/views/view.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/QuanLyTinh-Spring/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/QuanLyTinh-Spring/.idea/modules/QuanLyTinh-Spring.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/QuanLyTinh-Spring/src/main/java/config/AppConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/QuanLyTinh-Spring/src/main/java/config/AppInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/QuanLyTinh-Spring/src/main/java/controller/CustomerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/QuanLyTinh-Spring/src/main/java/model/Country.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/QuanLyTinh-Spring/src/main/java/model/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/QuanLyTinh-Spring/src/main/java/repository/ICustomerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/QuanLyTinh-Spring/src/main/java/service/IService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/QuanLyTinh-Spring/src/main/java/service/customer/CustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/QuanLyTinh-Spring/src/main/java/service/customer/ICustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/QuanLyTinh-Spring/src/main/webapp/WEB-INF/views/create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/QuanLyTinh-Spring/src/main/webapp/WEB-INF/views/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/QuanLyTinh-Spring/src/main/webapp/WEB-INF/views/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/Test/.idea/modules/Test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/Test/src/main/java/config/AppConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/Test/src/main/java/config/AppInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/Test/src/main/java/controller/StudentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/Test/src/main/webapp/WEB-INFO/view/detail.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/Test/src/main/webapp/WEB-INFO/view/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/TimeZone-Spring/.idea/modules/TimeZone-Spring.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/TimeZone-Spring/src/main/java/controller/TimeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/TimeZone-Spring/src/main/webapp/WEB-INFO/configs/spring-config-mvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/TimeZone-Spring/src/main/webapp/WEB-INFO/views/worldclock.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/TimeZone-Spring/src/main/webapp/WEB-INFO/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/UngDungChuyenDoiTienTe-Spring/.idea/modules/UngDungChuyenDoiTienTe-Spring.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/UngDungChuyenDoiTienTe-Spring/src/main/java/config/AppConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/UngDungChuyenDoiTienTe-Spring/src/main/java/config/AppInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/UngDungChuyenDoiTienTe-Spring/src/main/java/controller/ConvertController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/UngDungChuyenDoiTienTe-Spring/src/main/java/service/ConvertService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/UngDungChuyenDoiTienTe-Spring/src/main/webapp/WEB-INFO/view/view.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/UploadFile-Spring/.idea/modules/UploadFile-Spring.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/UploadFile-Spring/src/main/java/config/AppInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/UploadFile-Spring/src/main/java/config/ApplicationConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/UserModel-Spring/src/main/java/config/AppConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/UserModel-Spring/src/main/java/config/AppInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/UserModel-Spring/src/main/java/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/UserModel-Spring/src/main/java/model/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/UserModel-Spring/src/main/java/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/UserModel-Spring/src/main/java/service/UserDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/UserModel-Spring/src/main/webapp/WEB-INFO/views/error.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/UserModel-Spring/src/main/webapp/WEB-INFO/views/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/UserModel-Spring/src/main/webapp/WEB-INFO/views/user.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/ValidatingFormInput-Spring/src/main/java/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/ValidatingFormInput-Spring/src/main/java/config/AppInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/ValidatingFormInput-Spring/src/main/java/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/ValidatingFormInput-Spring/src/main/java/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/ValidatingFormInput-Spring/src/main/java/service/IService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/ValidatingFormInput-Spring/src/main/java/service/user/IUserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/ValidatingFormInput-Spring/src/main/java/service/user/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/ValidatingFormInput-Spring/src/main/webapp/WEB-INF/views/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/ValidatingFormInput-Spring/src/main/webapp/WEB-INF/views/result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/spring-mvc-form-tutorial/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/spring-mvc-form-tutorial/src/main/java/config/AppConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/spring-mvc-form-tutorial/src/main/java/config/AppInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/spring-mvc-form-tutorial/src/main/java/controller/EmployeeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/spring-mvc-form-tutorial/src/main/java/model/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/spring-mvc-form-tutorial/src/main/webapp/WEB-INFO/views/create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/spring-mvc-form-tutorial/src/main/webapp/WEB-INFO/views/info.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/File Code.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Game.js" beforeDir="false" afterPath="$PROJECT_DIR$/Game.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week 1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 1/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week 2" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Case Study Month 1/CssStart.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Case Study Month 1/Game.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Case Study Month 1/Index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Case Study Month 1/Start.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Case Study Month 1/audio/DaiLy1NhacNenGameThienLongBatBo.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Case Study Month 1/audio/NhiHaiNhacNenGameThienLongBatBo.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Case Study Month 1/image/Doan-ten.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Case Study Month 1/image/Donald-Trump.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Case Study Month 1/image/Huan-hoa-hong.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Case Study Month 1/image/Joe-Biden.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Case Study Month 1/image/My-Tam.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Case Study Month 1/image/Nguyen-Xuan-Phuc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Case Study Month 1/image/Tran-Dan.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Case Study Month 1/image/Untitled1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Case Study Month 1/image/Untitled2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Case Study Month 1/image/download.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Case Study Month 1/image/me.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Case Study Month 1/image/start.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Case Study Month 1/image/start.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 1/Bai1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 1/BanCoVua.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 1/CVCaNhan.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 1/HTMLform.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 1/Index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 1/Tạo bảng cơ bản.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 1/Tạo bảng nâng cao.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 1/Tạo bảng đơn giản.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 1/Tạo form cơ bản.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 1/Tạo form đơn giản.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 1/Tạo giao diện form đăng ký người dùng.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 1/Tạo một form tìm kiếm Google.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 3/Cấu trúc lặp/Luyện tập vòng lặp 01/Bai1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 3/Cấu trúc lặp/Luyện tập vòng lặp 01/Bai2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 3/Cấu trúc lặp/Luyện tập vòng lặp 01/Bai3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 3/Cấu trúc lặp/Luyện tập vòng lặp 01/Bai4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 3/Cấu trúc lặp/Luyện tập vòng lặp 01/Bai5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 3/Cấu trúc lặp/Luyện tập vòng lặp 01/Bai6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 3/Cấu trúc lặp/Luyện tập vòng lặp 01/Bai7.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 3/Cấu trúc lặp/Luyện tập vòng lặp 01/Bai8.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 3/Cấu trúc lặp/Luyện tập vòng lặp 02/Bai1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 3/Cấu trúc lặp/Luyện tập vòng lặp 02/Bai2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 3/Cấu trúc lặp/Luyện tập vòng lặp 02/Bai3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 3/Cấu trúc lặp/Luyện tập vòng lặp 02/Bai4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 3/Cấu trúc lặp/Luyện tập vòng lặp 02/Bai5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 3/Cấu trúc lặp/Test/Test vòng lặp FOR/Test1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 3/Cấu trúc lặp/Test/Test vòng lặp FOR/Test2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 3/Cấu trúc lặp/Test/Test vòng lặp FOR/Test3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 3/Cấu trúc lặp/Test/Test vòng lặp WHILE/Test1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 3/Cấu trúc lặp/Test/Test vòng lặp WHILE/Test2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 3/Cấu trúc lặp/Test/Text1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 3/Cấu trúc lặp/Thực Hành/Bai1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 3/Cấu trúc lặp/Thực Hành/Bai2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 3/Cấu trúc lặp/Thực Hành/Bai3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 3/Cấu trúc lặp/Thực Hành/BangCuuChuong.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 3/Cấu trúc lặp/Thực Hành/SoNguyenTo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 3/Hàm/Bài tập/QuanLySanPham.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 3/Hàm/Luyện tập tạo và sử dụng hàm 01/Bai1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 3/Hàm/Luyện tập tạo và sử dụng hàm 01/Bai2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 3/Hàm/Luyện tập tạo và sử dụng hàm 01/Bai3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 3/Hàm/Luyện tập tạo và sử dụng hàm 01/Bai4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 3/Hàm/Luyện tập tạo và sử dụng hàm 01/Bai5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 3/Hàm/Luyện tập tạo và sử dụng hàm 02/Bai1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 3/Hàm/Luyện tập tạo và sử dụng hàm 02/Bai2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 3/Hàm/Luyện tập tạo và sử dụng hàm 02/Bai3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 3/Hàm/Luyện tập tạo và sử dụng hàm 02/Bai4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 3/Hàm/Luyện tập tạo và sử dụng hàm 02/Bai5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 3/Hàm/Luyện tập tạo và sử dụng hàm 02/Bai6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 3/Hàm/Luyện tập tạo và sử dụng hàm 02/Bai7.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 3/Hàm/Luyện tập tạo và sử dụng hàm 02/Bai8.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 3/Hàm/Luyện tập tạo và sử dụng hàm 02/Bai9.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 3/Hàm/Test/Test1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 3/Hàm/Test/Test2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 3/Hàm/Test/Test3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 3/Hàm/Test/Test4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 3/Hàm/Thực hành/ChuyenDoiNhietDo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 3/Hàm/Thực hành/SoNguyenTo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 3/Hàm/Thực hành/TaoVaGoiHam.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 3/Hàm/Thực hành/TimGiaTriNhoNhat.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 3/Hàm/Thực hành/feet_meters.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 3/Lập trình Hướng Đối tượng/Bài tập/BongDen.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 3/Lập trình Hướng Đối tượng/Bài tập/Game đơn giản - di chuyển đối tượng/Js.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 3/Lập trình Hướng Đối tượng/Bài tập/Game đơn giản - di chuyển đối tượng/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module 4 (Spring)/CustormerManger-Spring/src/main/webapp/WEB-INFO/views/create.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 3/Lập trình Hướng Đối tượng/Bài tập/Game đơn giản - di chuyển đối tượng/jerry_run.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 3/Lập trình Hướng Đối tượng/Bài tập/HinhChuNhat.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 3/Lập trình Hướng Đối tượng/Bài tập/Temperature.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 3/Lập trình Hướng Đối tượng/Bài tập/Xây dựng lớp mô tả điện thoại.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 3/Lập trình Hướng Đối tượng/Test/Test1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 3/Lập trình Hướng Đối tượng/Test/Test2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 3/Lập trình Hướng Đối tượng/Test/Test3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 3/Lập trình Hướng Đối tượng/Thực hành/Funny.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 3/Lập trình Hướng Đối tượng/Thực hành/Xây dựng lớp Date.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 3/Lập trình Hướng Đối tượng/Thực hành/Xây dựng lớp Hình Tròn.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 3/Mảng/Luyện tập mảng 01/Bai1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 3/Mảng/Luyện tập mảng 01/Bai2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 3/Mảng/Luyện tập mảng 01/Bai3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 3/Mảng/Luyện tập mảng 01/Bai4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 3/Mảng/Luyện tập mảng 01/Bai5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 3/Mảng/Luyện tập mảng 01/Bai6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 3/Mảng/Luyện tập mảng 01/Bai7.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 3/Mảng/Luyện tập mảng 01/Bai8.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 3/Mảng/Luyện tập mảng 01/Bai9.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 3/Mảng/Luyện tập mảng 02/Bai1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 3/Mảng/Luyện tập mảng 02/Bai2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 3/Mảng/Luyện tập mảng 02/Bai3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 3/Mảng/Luyện tập mảng 02/Bai4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 3/Mảng/Luyện tập mảng 02/Bai5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 3/Mảng/Luyện tập mảng 02/Bai6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 3/Mảng/Test/Test1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 3/Mảng/Test/Test2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 3/Mảng/Test/Test3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 3/Mảng/Thực hành/CoCaro.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 3/Mảng/Thực hành/DaoNguocPhanTu.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 3/Mảng/Thực hành/Faking Textarea on Typing/Faking Textarea on Typing.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 3/Mảng/Thực hành/Faking Textarea on Typing/test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 3/Mảng/Thực hành/TaoVaThaoTac.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 3/Mảng/Thực hành/TikTokToe.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 3/Mảng/Thực hành/TimGiaTri.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 3/Mảng/Thực hành/TimGiaTriLonNhat.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Month 1/Week 3/Mảng/Thực hành/TuDien.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +316,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -53,7 +352,11 @@
       <workItem from="1606880476405" duration="335000" />
       <workItem from="1606881661896" duration="439000" />
       <workItem from="1606882942350" duration="9691000" />
-      <workItem from="1606965616952" duration="15898000" />
+      <workItem from="1606965616952" duration="17278000" />
+      <workItem from="1607068765300" duration="1281000" />
+      <workItem from="1607072901408" duration="3031000" />
+      <workItem from="1607302815834" duration="1139000" />
+      <workItem from="1615514453387" duration="266000" />
     </task>
     <servers />
   </component>
